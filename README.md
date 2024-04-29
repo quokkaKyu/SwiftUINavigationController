@@ -4,7 +4,7 @@ UINavigationController를 이용한 SwiftUI View의 화면전환 프로젝트 �
 https://medium.com/@anandhakrishnan.m/unlocking-the-power-of-uikit-navigation-in-swiftui-2dfc26a50f32
 를 보고 구현해봤는데 해당 블로그 설명에 빠진부분이 있어서 프로젝트로 만들어봤습니다.
 
-![SwiftUINavigationController.gif](/Resource/app.gif)
+<img src="/Resource/app.gif" width="30%" height="30%"/>
 
 ## 파일구조
 
