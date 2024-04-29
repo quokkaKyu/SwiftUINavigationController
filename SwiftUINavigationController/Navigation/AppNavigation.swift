@@ -1,7 +1,6 @@
 import SwiftUI
 
 class AppNavigation {
-
     static var shared = AppNavigation(startingRoute: .firstView)
     let startingRoute: AppRoute
 

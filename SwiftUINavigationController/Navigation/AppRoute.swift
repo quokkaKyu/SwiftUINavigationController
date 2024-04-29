@@ -1,7 +1,6 @@
 import SwiftUI
 
 enum AppRoute: Router {
-
     case firstView
     case secondView(number: Int)
     case thirdView(number: Int)

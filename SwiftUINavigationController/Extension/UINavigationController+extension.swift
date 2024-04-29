@@ -1,7 +1,6 @@
 import UIKit
 
 extension UINavigationController: ObservableObject {
-
     func navigateTo(route: AppRoute) {
         AppNavigation.shared.navigate(route, source: self)
     }
