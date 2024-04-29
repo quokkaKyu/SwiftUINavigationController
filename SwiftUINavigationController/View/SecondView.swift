@@ -15,7 +15,7 @@ struct SecondView: View {
                     Text("Back to 1")
                 })
                 Button(action: {
-                    navigator.navigateTo(route: .secondView(number: 3))
+                    navigator.navigateTo(route: .thirdView(number: 3))
                 }, label: {
                     Text("Move to 3")
                 })

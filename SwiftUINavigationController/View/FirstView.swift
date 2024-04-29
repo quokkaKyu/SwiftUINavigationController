@@ -2,7 +2,7 @@ import SwiftUI
 
 struct FirstView: View {
     @EnvironmentObject private var navigator: UINavigationController
-    let number = 1
+    let number: Int = 1
     var body: some View {
         VStack {
             Text("\(number)")
